@@ -1,3 +1,5 @@
+// O(n^2) Time && O(n) Space
+
 bool isPalindrome(string str) {
   string rev = "";
   int len = str.length();
